@@ -17,7 +17,7 @@ abstract class Provider
      * @var array
      */
     protected $payload = [
-        'database_type' => '',
+        'database_type' => null,
     ];
 
     /**
